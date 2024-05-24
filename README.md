@@ -1,6 +1,7 @@
 # Hotel Booking Cancellation Analysis
 
-![image](https://github.com/RahulDasari1/Hotel-Booking-/assets/101777162/f98f237c-e6d6-4cc6-97d1-8d31b6a0b743)
+![image](https://github.com/RahulDasari1/Hotel-Booking-/assets/101777162/cae1cc8b-2d1c-4274-941a-2248d6718853)
+
 
 ## Project Overview
 This project aims to analyze hotel booking cancellation patterns using the "Hotel Booking Demand" dataset available on Kaggle. The dataset contains detailed information on bookings for a City Hotel and a Resort Hotel between July 1, 2015, and August 31, 2017. The analysis will help identify key factors influencing booking cancellations and provide insights that could assist in improving booking strategies and customer retention.
