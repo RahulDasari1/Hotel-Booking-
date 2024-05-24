@@ -1,5 +1,9 @@
 # Hotel Booking Cancellation Analysis
 
+![image](https://github.com/RahulDasari1/Hotel-Booking-Cancellation-Analysis/assets/101777162/d1f38953-fd55-4dcb-b928-971c777e722b)
+
+![image](https://github.com/RahulDasari1/Hotel-Booking-Cancellation-Analysis/assets/101777162/1f762f05-d33b-4a2f-9893-2f8aecdd3583)
+
 ![image](https://github.com/RahulDasari1/Hotel-Booking-/assets/101777162/cae1cc8b-2d1c-4274-941a-2248d6718853)
 
 
