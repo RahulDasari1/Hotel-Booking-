@@ -88,5 +88,5 @@ The dataset used in this project is from the article "Hotel Booking Demand Datas
 ## Inspiration
 This analysis seeks to provide meaningful insights into the factors influencing hotel booking cancellations. By sharing this project, we hope to contribute to the broader data science community and inspire further research and innovation in the hospitality industry.
 
--Happy Coding 
+-Happy Coding <br>
 Rahul Dasari
